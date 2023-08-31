@@ -1,0 +1,258 @@
+                                         Asian Capital Cities Quiz 
+
+
+1.What is the capital of Myanmar?
+          A.Ashgabat 
+          B.Nay Pyi Taw 
+          C.Dili 
+          D.Tbilisi 
+2.What is the capital of South Korea?
+          A.Tehran 
+          B.Seoul 
+          C.Baku 
+          D.Dushanbe 
+3.What is the capital of Afghanistan?
+          A.Manila 
+          B.Nicosia 
+          C.Kabul 
+          D.Tehran 
+4.What is the capital of Saudi Arabia?
+          A.Baku 
+          B.Vientiane 
+          C.Seoul 
+          D.Riyadh 
+5.What is the capital of Tajikistan?
+          A.Amman 
+          B.Dushanbe 
+          C.Damascus 
+          D.Manila 
+6.What is the capital of Maldives?
+          A.New Delhi 
+          B.Dhaka 
+          C.Malé 
+          D.Baghdad 
+7.What is the capital of Malaysia?
+          A.Kuala Lumpur 
+          B.Riyadh 
+          C.Yerevan 
+          D.Baku 
+8.What is the capital of Lebanon?
+          A.Beirut 
+          B.Hong Kong 
+          C.Baku 
+          D.Abu Dhabi 
+9.What is the capital of Israel?
+          A.Malé 
+          B.Jerusalem 
+          C.Kabul 
+          D.Manama 
+10.What is the capital of Syria?
+          A.Damascus 
+          B.Vientiane 
+          C.Jakarta 
+          D.Malé 
+11.What is the capital of Brunei?
+          A.Dushanbe 
+          B.Bandar Seri Begawan 
+          C.Bishkek 
+          D.Manila 
+12.What is the capital of Iraq?
+          A.Colombo 
+          B.Baghdad 
+          C.Taipei 
+          D.Concelho de Macau 
+13.What is the capital of Taiwan?
+          A.Colombo 
+          B.Dili 
+          C.Taipei 
+          D.Nicosia 
+14.What is the capital of Thailand?
+          A.Nay Pyi Taw 
+          B.Bangkok 
+          C.Damascus 
+          D.Manila 
+15.What is the capital of Mongolia?
+          A.Phnom Penh 
+          B.Bandar Seri Begawan 
+          C.Ulaanbaatar 
+          D.Kathmandu 
+16.What is the capital of Bahrain?
+          A.Baghdad 
+          B.Tbilisi 
+          C.Manama 
+          D.Bangkok 
+17.What is the capital of Turkey?
+          A.Jakarta 
+          B.Ankara 
+          C.Beijing 
+          D.Damascus 
+18.What is the capital of Kuwait?
+          A.Tehran 
+          B.Bandar Seri Begawan 
+          C.Kuwait City 
+          D.Abu Dhabi 
+19.What is the capital of Nepal?
+          A.Kathmandu 
+          B.Dushanbe 
+          C.Amman 
+          D.Nay Pyi Taw 
+20.What is the capital of Yemen?
+          A.Phnom Penh 
+          B.Abu Dhabi 
+          C.Sanaa 
+          D.Baghdad 
+21.What is the capital of United Arab Emirates?
+          A.Beirut 
+          B.Kuwait City 
+          C.Ankara 
+          D.Abu Dhabi 
+22.What is the capital of Cyprus?
+          A.Riyadh 
+          B.Nicosia 
+          C.Phnom Penh 
+          D.Tashkent 
+23.What is the capital of Singapore?
+          A.Seoul 
+          B.Damascus 
+          C.Dhaka 
+          D.Singapore 
+24.What is the capital of Pakistan?
+          A.Jakarta 
+          B.Yerevan 
+          C.Islamabad 
+          D.Hong Kong 
+25.What is the capital of Bangladesh?
+          A.Seoul 
+          B.Dhaka 
+          C.Islamabad 
+          D.Hanoi 
+26.What is the capital of Laos?
+          A.Islamabad 
+          B.Vientiane 
+          C.Concelho de Macau 
+          D.Pyongyang 
+27.What is the capital of Azerbaijan?
+          A.Baku 
+          B.Hong Kong 
+          C.Tbilisi 
+          D.Muscat 
+28.What is the capital of Bhutan?
+          A.Ashgabat 
+          B.Tehran 
+          C.Thimphu 
+          D.Dushanbe 
+29.What is the capital of Hong Kong?
+          A.Baghdad 
+          B.Seoul 
+          C.Hong Kong 
+          D.Tehran 
+30.What is the capital of Uzbekistan?
+          A.Colombo 
+          B.Tashkent 
+          C.Dili 
+          D.Yerevan 
+31.What is the capital of Iran?
+          A.Tehran 
+          B.Baghdad 
+          C.Ulaanbaatar 
+          D.New Delhi 
+32.What is the capital of India?
+          A.New Delhi 
+          B.Yerevan 
+          C.Kathmandu 
+          D.Kuwait City 
+33.What is the capital of Cambodia?
+          A.Muscat 
+          B.Dhaka 
+          C.Beirut 
+          D.Phnom Penh 
+34.What is the capital of Armenia?
+          A.Colombo 
+          B.Yerevan 
+          C.Beijing 
+          D.Bangkok 
+35.What is the capital of North Korea?
+          A.Manila 
+          B.Amman 
+          C.Pyongyang 
+          D.Tokyo 
+36.What is the capital of China?
+          A.Nay Pyi Taw 
+          B.Beijing 
+          C.Singapore 
+          D.Tbilisi 
+37.What is the capital of Philippines?
+          A.Hong Kong 
+          B.Vientiane 
+          C.Manila 
+          D.Taipei 
+38.What is the capital of East Timor?
+          A.Dili 
+          B.Vientiane 
+          C.Sanaa 
+          D.Baku 
+39.What is the capital of Oman?
+          A.Tokyo 
+          B.Beirut 
+          C.Muscat 
+          D.Manama 
+40.What is the capital of Vietnam?
+          A.Ankara 
+          B.Ashgabat 
+          C.Hanoi 
+          D.Islamabad 
+41.What is the capital of Georgia?
+          A.Nursultan 
+          B.Yerevan 
+          C.Nicosia 
+          D.Tbilisi 
+42.What is the capital of Turkmenistan?
+          A.Concelho de Macau 
+          B.Ashgabat 
+          C.Abu Dhabi 
+          D.Riyadh 
+43.What is the capital of Palestine?
+          A.Riyadh 
+          B.New Delhi 
+          C.Taipei 
+          D.Ramallah 
+44.What is the capital of Indonesia?
+          A.Vientiane 
+          B.Abu Dhabi 
+          C.Jakarta 
+          D.Dili 
+45.What is the capital of Sri Lanka?
+          A.Sanaa 
+          B.Hong Kong 
+          C.Colombo 
+          D.Kuala Lumpur 
+46.What is the capital of Qatar?
+          A.Bangkok 
+          B.Thimphu 
+          C.Doha 
+          D.Hong Kong 
+47.What is the capital of Japan?
+          A.Manama 
+          B.Dhaka 
+          C.Tokyo 
+          D.Thimphu 
+48.What is the capital of Kyrgyzstan?
+          A.Bishkek 
+          B.Abu Dhabi 
+          C.Ulaanbaatar 
+          D.Nay Pyi Taw 
+49.What is the capital of Kazakhstan?
+          A.Nursultan 
+          B.Islamabad 
+          C.Amman 
+          D.Manama 
+50.What is the capital of Jordan?
+          A.Ankara 
+          B.Concelho de Macau 
+          C.Vientiane 
+          D.Amman 
+51.What is the capital of Macao?
+          A.Dushanbe 
+          B.Ulaanbaatar 
+          C.Concelho de Macau 
+          D.Tbilisi 
