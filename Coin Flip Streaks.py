@@ -28,7 +28,7 @@ try:
 
 except IndexError:
 
- print(f"chance of getting 6 streaks is {(numberOfStreaks/100)*100} %")
+ print(f"chance of getting 6 streaks is {(numberOfStreaks/10990)*100} %")
 
 
 
