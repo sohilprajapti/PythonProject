@@ -1,5 +1,5 @@
 from pathlib import Path
-import os,pprint
+import os,pprint,shutil
 
 Py3_11 = Path(r'C:\Users\Anjal\AppData\Local\Programs\Python\Python311\Lib\site-packages')
 Py3__8 = Path(r'C:\Python38\Lib\site-packages')
@@ -11,10 +11,10 @@ filesofpy8 = []
 notin11 =[]
 notin8 = []
 for bruh in files_in_Py3_11:
-    filesofpy11.append(bruh.stem)
+    filesofpy11.append(bruh.name)
 
 for paper in files_in_Py3_8:
-    filesofpy8.append(paper.stem)
+    filesofpy8.append(paper.name)
 
 
 for file in filesofpy8:
@@ -32,5 +32,9 @@ if notin8 == []:
     notin8 = None
 print(f"Files that are not in python 3.11 but in python 3.8 are:")
 pprint.pp(notin11)
+
+for i in notin11:
+    shutil.copytree(f'C:\\Python38\\Lib\\site-packages\\{i}',r'C:\Users\Anjal\AppData\Local\Programs\Python\Python311\Lib\site-packages')
+
 print(f"Files that are not in python 3.8 but in python 3.11 are:")
 pprint.pp(notin8)
