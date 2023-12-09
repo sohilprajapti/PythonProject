@@ -27,14 +27,23 @@ for file in filesofpy11:
 
 
 if notin11 == []:
-    notin11 = None
+    notin11 = 'nothing'
+
 if notin8 == []:
-    notin8 = None
+    notin8 = 'nothing'
 print(f"Files that are not in python 3.11 but in python 3.8 are:")
+
 pprint.pp(notin11)
+if notin11 != 'nothing':
+    for i in notin11:
+        pathoffile = Path(f'C:\\Python38\\Lib\\site-packages\\{i}')
+        shutil.move(pathoffile,r'C:\Users\Anjal\AppData\Local\Programs\Python\Python311\Lib\site-packages')
 
-for i in notin11:
-    shutil.copytree(f'C:\\Python38\\Lib\\site-packages\\{i}',r'C:\Users\Anjal\AppData\Local\Programs\Python\Python311\Lib\site-packages')
+# print(f"Files that are not in python 3.8 but in python 3.11 are:")
+# pprint.pp(notin8)
 
-print(f"Files that are not in python 3.8 but in python 3.11 are:")
-pprint.pp(notin8)
+# if notin8 != 'nothing':
+#     if notin8 != 'nothing':
+#         for i in notin8:
+#             pathoffile = Path(f'C:\\Users\\Anjal\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\{i}')
+#             shutil.copy(pathoffile,r'C:\Python38\Lib\site-packages')

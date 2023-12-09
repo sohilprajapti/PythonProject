@@ -1,8 +1,13 @@
-import webbrowser,sys, pyperclip
+import webbrowser, requests
 
-if len(sys.argv) > 1:
-    address = ' '.join(sys.argv[1:])
-else:
-    address = pyperclip.paste()
+res = requests.get('https://readnovelfull.com/omniscient-readers-viewpoint/chapter-421-the-secretive-plotter-6.html')
 
-webbrowser.open('http')
+res.raise_for_status()
+
+
+print(len(res.text))
+
+playfile = open('orv.html','wb')
+
+for chunk in res.iter_content(100000):
+    playfile.write(chunk)
