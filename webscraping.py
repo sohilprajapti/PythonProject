@@ -1,13 +1,8 @@
-import webbrowser, requests
+import requests,bs4
 
-res = requests.get('https://readnovelfull.com/omniscient-readers-viewpoint/chapter-421-the-secretive-plotter-6.html')
-
-res.raise_for_status()
-
-
-print(len(res.text))
-
-playfile = open('orv.html','wb')
-
-for chunk in res.iter_content(100000):
-    playfile.write(chunk)
+example_file = open('example.html')
+example_soup = bs4.BeautifulSoup(example_file, 'html.parser')
+author = example_soup.select('html')
+exampletext = open('example.txt','w')
+exampletext.write(author[0].getText())
+exampletext.close()
